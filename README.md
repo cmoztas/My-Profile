@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cmoztas" alt="cmoztas" /></a> </p>
 
-- 🔭 I’m currently working on **software development camp**
+- 🔭 I’m currently working on **my web stalker project**
 
-- 🌱 I’m currently learning **AOP, API Security Challenges, Angular**
+- 🌱 I’m currently learning **API Security Challenges**
 
 - 📝 I regularly write articles on [cagkanmert.com](cagkanmert.com)
 
-- 💬 Ask me about **Python, C#, EntityFramework, Layered Architecture, AOP, OOP, SOLID**
+- 💬 Ask me about **C#, Java, Angular, React, EntityFramework, Layered Architecture, AOP, OOP, SOLID**
 
-- 📫 How to reach me **info@cagkanmert.com**
+- 📫 How to reach me **cmoztas2@gmail.com**
 
 - ⚡ Fun fact **Also I'm playing bass guitar :)**
 
