@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmoztas&label=Profile%20views&color=0e75b6&style=flat" alt="cmoztas" /> </p>
 
-- 📝 I regularly write articles on [https://cagkanmert.com](https://cagkanmert.com)
-
 - 💬 Ask me about **Monolith & Microservice Architecture, AOP, OOP, SOLID, Micro-frontend, Angular2, Mobile Development**
 
 - 📫 How to reach me **info@cagkanmert.com**
